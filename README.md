@@ -1,2 +1,2 @@
-# HTML-CSS-CURSOEMVIDEO
- Curso de HTML e CSS do Curso em VIdeo do Gustavo Guanabara
+# HTML-CSS
+ Curso de HTML e CSS do Curso em VIdeo do Gustavo Guanabara + Meus Projetos
